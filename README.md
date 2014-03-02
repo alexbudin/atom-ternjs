@@ -1,3 +1,3 @@
 # tern-j-s package
 
-A short description of your package.
+This is a work in progress... do not use this yet. Feel free to contribute on github though! :)
