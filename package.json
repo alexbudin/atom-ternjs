@@ -4,13 +4,10 @@
   "version": "0.0.0",
   "private": true,
   "description": "A short description of your package",
-  "activationEvents": [
-    "tern-j-s:toggle"
-  ],
-  "repository": "https://github.com/atom/tern-j-s",
+  "repository": "https://github.com/mattapperson/ternjs",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">0.62.0"
   },
   "dependencies": {
     "tern": "^0.5.0"
