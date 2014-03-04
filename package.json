@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "tern": "^0.5.0",
-    "underscore-plus": "^1.0.4"
+    "underscore-plus": "^1.0.4",
+    "fuzzaldrin": "^1.0.0",
+    "q": "^1.0.0"
   }
 }
