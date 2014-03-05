@@ -7,5 +7,3 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
-'.editor':
-  'escape': 'autocomplete:remove'
