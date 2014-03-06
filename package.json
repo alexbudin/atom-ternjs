@@ -14,6 +14,7 @@
     "underscore-plus": "^1.0.4",
     "fuzzaldrin": "^1.0.0",
     "q": "^1.0.0",
-    "minimatch": "^0.2.14"
+    "minimatch": "^0.2.14",
+    "node-dir": "^0.1.5"
   }
 }
