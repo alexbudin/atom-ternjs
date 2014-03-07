@@ -1,7 +1,7 @@
 {
   "name": "ternjs",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "description": "Adds TernJS support to Atom.io",
   "repository": "https://github.com/mattapperson/atom-ternjs",
