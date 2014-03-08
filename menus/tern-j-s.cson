@@ -1,16 +1,4 @@
 # See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
   '.overlayer':
-    'Autocomplete': 'autocomplete:attach'
-
-'menu': [
-  {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'tern-j-s'
-      'submenu': [
-        { 'label': 'Toggle', 'command': 'tern-j-s:toggle' }
-      ]
-    ]
-  }
-]
+    'Jump To Def': 'ternjs:jumptodef'
